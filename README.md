@@ -37,16 +37,6 @@ Garanto que software de alta criticidade — como sistemas usados por tribunais 
 ![Gherkin](https://img.shields.io/badge/Gherkin%20%2F%20BDD-5A9E3E?style=flat-square&logo=cucumber&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat-square)
 
-## 📂 Projetos em destaque
-
-<!-- Substitua pelos seus repositórios reais. Um projeto bem documentado vale mais que cinco incompletos. -->
-
-| Projeto | O que demonstra |
-|---|---|
-| [nome-do-repo](https://github.com/SEU-USUARIO/nome-do-repo) | Ex.: suíte de testes automatizados em Python + pytest com execução em CI |
-| [nome-do-repo](https://github.com/SEU-USUARIO/nome-do-repo) | Ex.: plano de teste e casos em Gherkin para um sistema de exemplo |
-| [nome-do-repo](https://github.com/SEU-USUARIO/nome-do-repo) | Ex.: estratégia de testes para aplicação com LLM (alinhada ao CT-GenAI) |
-
 ## 🤝 Vamos conversar
 
 Busco organizações que tratam qualidade como estratégia — e que enxergam na engenharia de testes e na IA generativa formas de entregar software mais confiável.
